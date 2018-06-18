@@ -1,0 +1,12 @@
+﻿  tiny_obj_loader.cc
+g:\на сервере\универ\прога, кг, сети и безопасность\папка 1 (старое)\курсач кг\export\курсоваякг\vs_geometry\vs_geometry\tiny_obj_loader.cc(333): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note:  см. объявление "sscanf"
+g:\на сервере\универ\прога, кг, сети и безопасность\папка 1 (старое)\курсач кг\export\курсоваякг\vs_geometry\vs_geometry\tiny_obj_loader.cc(622): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note:  см. объявление "sscanf"
+g:\на сервере\универ\прога, кг, сети и безопасность\папка 1 (старое)\курсач кг\export\курсоваякг\vs_geometry\vs_geometry\tiny_obj_loader.cc(645): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note:  см. объявление "sscanf"
+g:\на сервере\универ\прога, кг, сети и безопасность\папка 1 (старое)\курсач кг\export\курсоваякг\vs_geometry\vs_geometry\tiny_obj_loader.cc(705): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note:  см. объявление "sscanf"
+  laba4.cpp
+g:\на сервере\универ\прога, кг, сети и безопасность\папка 1 (старое)\курсач кг\export\курсоваякг\vs_geometry\vs_geometry\laba4.cpp(6): fatal error C1083: Не удается открыть файл включение: glaux.h: No such file or directory,
+  Создание кода...
